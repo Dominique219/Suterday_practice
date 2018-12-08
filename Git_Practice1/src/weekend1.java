@@ -15,7 +15,7 @@ public class weekend1 {
 
 		
 		System.out.println(str1.indexOf('q'));
-		System.out.println("this is a new change");
+		System.out.println("this is a add on comment");
 		
 
 	}
