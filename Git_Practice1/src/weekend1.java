@@ -167,8 +167,8 @@ public class weekend1 {
 		System.out.println(num2/num1);
 		System.out.println("this is the return names :" + ReturnNames(num1));
 		
-		
-		
+		System.out.println("learning the merge command");
+	
 		
 		
 		
